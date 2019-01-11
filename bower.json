@@ -1,11 +1,12 @@
 {
-  "name": "startbootstrap-sb-admin-2",
+  "name": "classicadmin",
   "homepage": "http://startbootstrap.com/template-overviews/sb-admin-2/",
-  "version": "3.3.7+1",
+  "version": "1.0.0",
   "authors": [
-    "David Miller"
+    "David Miller",
+	"Mathieu Perrein"
   ],
-  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
+  "description": "A free, open source, Bootstrap classic admin theme",
   "keywords": [
     "bootstrap",
     "theme"
@@ -28,11 +29,11 @@
     "dist/js/sb-admin-2.min.js"
   ],
   "dependencies": {
-    "bootstrap": "v4.0.0-beta",
+    "bootstrap": "~4.2.1",
     "datatables": "~1.10.15",
     "datatables-plugins": "~1.10.16",
     "flot": "~0.8.3",
-    "font-awesome": "~4.6.3",
+    "font-awesome": "~5.4.2",
     "holderjs": "~2.4.1",
     "metisMenu": "metismenu#^2.7.0",
     "morrisjs": "~0.5.1",
@@ -42,6 +43,6 @@
     "popper.js": "^1.12.5"
   },
   "resolutions": {
-    "font-awesome": "~4.6.3"
+    "font-awesome": "~5.4.2"
   }
 }

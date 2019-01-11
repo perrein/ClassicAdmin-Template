@@ -1,24 +1,24 @@
 {
-  "name": "sb-admin-2-bootstrap-4",
-  "title": "SB Admin 2 for Bootstrap 4",
-  "version": "4.0.2",
-  "homepage": "http://github.com/dpwilhelmsen/sb-admin-2-bootstrap-4",
-  "author": "Daniel Wilhelmsen",
+  "name": "classicadmin",
+  "title": "ClassicAdmin for Bootstrap 4",
+  "version": "1.0.0",
+  "homepage": "https://github.com/perrein/ClassicAdmin-Template",
+  "author": "Mathieu Perrein",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/dpwilhelmsen/sb-admin-2-bootstrap-4/blob/master/LICENSE"
+    "url": "https://github.com/perrein/ClassicAdmin-Template/blob/master/LICENSE"
   },
   "devDependencies": {
-    "browser-sync": "^2.13.0",
-    "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
-    "gulp-uglify": "^1.5.4"
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-header": "^2.0.7",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dpwilhelmsen/sb-admin-2-bootstrap-4.git"
+    "url": "git://github.com/perrein/ClassicAdmin-Template.git"
   }
 }
